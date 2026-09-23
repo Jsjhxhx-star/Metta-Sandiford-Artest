@@ -1,6 +1,6 @@
 # Metta World Peace Talent Tree
 
-An unofficial English interactive talent guide designed for GitHub Pages.
+An unofficial English interactive talent guide.
 
 ## Preview locally
 
